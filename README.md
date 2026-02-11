@@ -14,6 +14,8 @@ Currently learning elixir and working on different apps for myself
 If you wish to contact me, there are only 2 correct places to reach me:
 - discord (@0xffabc)
 - delta chat (z6ywpyu3i@nine.testrun.org)
+- matrix (@0xffabc:matrix.netho.tk)
+- jami (0xffabc)
 
 ## Gold projects
 
