@@ -1,5 +1,7 @@
 ## Greetings
 
+<img width = "720" height = "540" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
+
 <hr>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=0xffabc&theme=onedark)
