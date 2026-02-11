@@ -17,4 +17,4 @@ If you wish to contact me, there are only 3 correct places to reach me:
 - matrix (@0xffabc:matrix.netho.tk)
 - jami (0xffabc)
 
-<img width = "640" height = "360" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
+<img width = "512" height = "288" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
