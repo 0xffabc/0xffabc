@@ -1,6 +1,6 @@
 ## Greetings
 
-<img width = "720" height = "540" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
+<img width = "640" height = "480" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
 
 <hr>
 
