@@ -1,7 +1,5 @@
 ## Greetings
 
-<img width = "640" height = "480" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
-
 <hr>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=0xffabc&theme=onedark)
@@ -19,8 +17,4 @@ If you wish to contact me, there are only 3 correct places to reach me:
 - matrix (@0xffabc:matrix.netho.tk)
 - jami (0xffabc)
 
-## Gold projects
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=0xffabc&repo=EthyrMC&theme=onedark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=0xffabc&repo=waterfall&theme=onedark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=0xffabc&repo=Nullping&theme=onedark)
+<img width = "640" height = "360" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
