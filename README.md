@@ -8,13 +8,9 @@
 
 ![i](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![i](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![i](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-Decent with rust, typescript, kotlin
-Currently learning elixir and working on different apps for myself
+I'm a developer who makes various things
 
 If you wish to contact me, there are only 3 correct places to reach me:
-- discord (@0xffabc) (Likely going to be removed)
 - delta chat (z6ywpyu3i@nine.testrun.org)
 - matrix (@0xffabc:matrix.netho.tk)
 - jami (0xffabc)
-
-<img width = "512" height = "288" src = "https://raw.githubusercontent.com/0xffabc/0xffabc/refs/heads/main/a.png">
