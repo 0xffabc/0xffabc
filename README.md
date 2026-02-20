@@ -7,7 +7,4 @@
 
 I'm a developer who makes various things
 
-If you wish to contact me, there are only 3 correct places to reach me:
-- delta chat (z6ywpyu3i@nine.testrun.org)
-- matrix (@0xffabc:matrix.netho.tk)
-- jami (0xffabc)
+Reach me out at z6ywpyu3i@nine.testrun.org and @0xffabc:matrix.netho.tk
